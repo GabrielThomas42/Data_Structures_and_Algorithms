@@ -1,2 +1,2 @@
-# Discrete_Structures
-Code for Discrete Structures class
+# Data Structures and Algorithms
+
